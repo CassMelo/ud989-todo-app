@@ -118,6 +118,7 @@ var app = app || {};
 			return false;
 		},
 
+
 		toggleAllComplete: function () {
 			var completed = this.allCheckbox.checked;
 
